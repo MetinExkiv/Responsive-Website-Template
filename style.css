@@ -49,7 +49,7 @@ header{
 }
 
 header .bg-image{
-    background-image: url(images/5-kitchen.png);
+    background-image: url(images/img.png);
     height: 45rem;
     width: 100%;
     background-size: cover;
